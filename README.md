@@ -30,7 +30,7 @@ Built with Unity's 2D physics, prefabs (`balon`, `patlama`), sprite animation an
 
 ## About
 
-This was my first Unity project (2023), built while learning C# and game development with Unity. My main work today is backend and full-stack development with PHP, Laravel, JavaScript, SQL and Flutter.
+A learning project from 2023, built while practising C# and game development with Unity. My main work today is backend and full-stack development with PHP, Laravel, JavaScript, SQL and Flutter.
 
 ---
 
@@ -45,4 +45,4 @@ This was my first Unity project (2023), built while learning C# and game develop
 
 Çalıştırmak için Unity Hub ile **Unity 2020.3.20f1** kur, klasörü aç, `Assets/Sahneler/ana_sahne.unity` sahnesini açıp **Play**'e bas.
 
-İlk Unity projemdir (2023). C# ve oyun geliştirme öğrenirken yaptım.
+2023 yılında C# ve Unity ile oyun geliştirme pratiği için yaptığım bir öğrenme projesidir.
