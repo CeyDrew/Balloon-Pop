@@ -30,7 +30,7 @@ Built with Unity's 2D physics, prefabs (`balon`, `patlama`), sprite animation an
 
 ## About
 
-A learning project from 2023, built while practising C# and game development with Unity. My main work today is backend and full-stack development with PHP, Laravel, JavaScript, SQL and Flutter.
+A learning project from 2023, built while practising C# and game development with Unity. My main work today is full-stack development with PHP, Node.js, JavaScript, SQL and Flutter.
 
 ---
 
